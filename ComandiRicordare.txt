@@ -1,0 +1,5 @@
+COMANDI da ricordare
+
+pwd: path
+cd: sposta
+ls: lista
