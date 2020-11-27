@@ -1,5 +1,6 @@
 COMANDI da ricordare
 
+terminale
 pwd: path
 cd: sposta
 ls: lista
@@ -8,6 +9,8 @@ mkdir: crea directory
 open: apri in Text edit
 atom: apre atom
 
+
+GIT (https://git-scm.com/book/en/v2)
 git status
 git add
 git commit -m "messaggio"
