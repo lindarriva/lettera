@@ -3,5 +3,11 @@ COMANDI da ricordare
 pwd: path
 cd: sposta
 ls: lista
+mkdir: crea directory
 
 open: apri in Text edit
+atom: apre in atom
+
+git status
+git add
+git commit -m "messaggio"
