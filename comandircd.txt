@@ -12,7 +12,12 @@ atom: apre atom
 
 GIT (https://git-scm.com/book/en/v2)
 git status
+
 git add
+git rm (eliminare file) {non serve add, passa a commit}
+git mv (rinominare file) {non serve add, passa a commit}
+
+
 git commit -m "messaggio"
 
 usa .gitignore per risorse da non considerare in ambiente Git
