@@ -1,4 +1,4 @@
-COMANDI da ricordare
+COMANDI da ricordare prima da Terminale e poi su Git
 
 terminale
 pwd: path
