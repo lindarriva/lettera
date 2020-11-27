@@ -34,4 +34,10 @@ github
 git remote upstream
 git fetch (mi fornisce informazioni su cosa succede in remoto)
 
+
 *** creare un milestone, usa comando "git tag" ***
+
+
+HEAD ->  è un puntatore per conoscere in quale "branch" siamo ovvero il branch "attivo"
+
+git checkout (cambia il branch dove stiamo puntando)
