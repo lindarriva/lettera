@@ -3,3 +3,5 @@ COMANDI da ricordare
 pwd: path
 cd: sposta
 ls: lista
+
+open: apri in Text edit
