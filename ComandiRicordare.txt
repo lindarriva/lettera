@@ -6,8 +6,12 @@ ls: lista
 mkdir: crea directory
 
 open: apri in Text edit
-atom: apre in atom
+atom: apre atom
 
 git status
 git add
 git commit -m "messaggio"
+
+usa .gitignore per risorse da non considerare in ambiente Git
+
+git diff per prendere visione di quali file sono in working or stage (--cached) context // granularità di parola per differenze (--word-diff)
