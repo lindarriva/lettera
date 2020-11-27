@@ -13,6 +13,8 @@ atom: apre atom
 GIT (https://git-scm.com/book/en/v2)
 git status
 
+git log (e varie opzioni)
+
 git add
 git rm (eliminare file) {non serve add, passa a commit}
 git mv (rinominare file) {non serve add, passa a commit}
@@ -23,3 +25,11 @@ git commit -m "messaggio"
 usa .gitignore per risorse da non considerare in ambiente Git
 
 git diff per prendere visione di quali file sono in working or stage (--cached) context // granularità di parola per differenze (--word-diff)
+
+
+la bash di git, apre cme editor vi (difficile da usare, vd: https://ryanstutorials.net/linuxtutorial/vi.php )
+
+github
+
+git remote upstream
+git fetch (mi fornisce informazioni su cosa succede in remoto)
